@@ -5,9 +5,10 @@ Just drag and drop the MJPicker.swift file and use it in your application
 
 
 # Sample Screenshot of single component Picker
+<img width="348" alt="Single_Component_Picker" src="https://github.com/user-attachments/assets/47552d82-9c95-4be8-b4ae-0994affd5cd5">
 
 # Sample Screenshot of multi component Picker
-
+<img width="354" alt="Multi_Component_Picker" src="https://github.com/user-attachments/assets/1b7dd236-1fc6-4f3a-80aa-2bddc5504824">
 
 # Requirements
 iOS 12.0

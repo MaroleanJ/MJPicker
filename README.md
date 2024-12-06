@@ -4,11 +4,10 @@ A simple picker that can be utilised in less number of codes which supports sing
 Just drag and drop the MJPicker.swift file and use it in your application
 
 
-# Sample Video pulse Animator
-https://github.com/maroleanapple/Pulse-Animator/assets/128990360/4b9ebd6b-5117-4526-9bf4-665599b5029d
+# Sample Screenshot of single component Picker
 
-# Sample Video Circular Loader
-https://github.com/MaroleanJ/Pulse-Animator/assets/128990360/9455c9fa-38fe-472e-8db2-5291447584a6
+# Sample Screenshot of multi component Picker
+
 
 # Requirements
 iOS 12.0
